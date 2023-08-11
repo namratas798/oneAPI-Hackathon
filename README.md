@@ -8,6 +8,15 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
   <h3 style="background-color:DodgerBlue;"align="center"><B></B>TITLE: PPE DETECTION FOR INDUSTRIAL WORKERS👷🏻🚧🏗🦺</h3>
 
   <p align="center">
+<br />
+<div align="center">
+ 
+
+
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1FttMlM96K5njpDYt_v4MtVvyPX62REhj/view">View Video</a>
+  </p>
+</div>
 
 
 <div align="left">
