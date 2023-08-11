@@ -13,12 +13,6 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
  
 
 
-  <p align="center">
-    <a href="">VIEW VIDEO</a>
-  </p>
-</div>
-
-
 <div align="left">
 
 ## ABOUT THE PROJECT
