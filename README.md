@@ -64,8 +64,10 @@ The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimize
     <td><a href="https://universe.roboflow.com/binary-brains/ppe-detection-npas4/dataset/2"> ▸ View Dataset</a></td>
    </tr>
    </table>
-**TEAM NAME : PSN-3**
+<br> **TEAM NAME : PSN-3** </br>
+<br> 
 **TEAM MEMBERS** :
-<a href="https://github.com/namratas798">1. Namrata Singh</a>   
-<a href="https://github.com/Prakriti-Bhatt">2. Prakriti Bhatt</a>
-<a href="https://github.com/saranyabandaru91">3. Saranya Bandaru</a>
+<br> <a href="https://github.com/namratas798">1. Namrata Singh</a>   </br>
+<br> <a href="https://github.com/Prakriti-Bhatt">2. Prakriti Bhatt</a>  </br>
+<br> <a href="https://github.com/saranyabandaru91">3. Saranya Bandaru</a>  </br>
+
