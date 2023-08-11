@@ -52,7 +52,8 @@ As nations progress and economies thrive, infrastructure development becomes a c
 <br>✔ **Jupyter Notebook**  (Python)</br>
 <br>✔ **PyCharm** (Python)</br>
 <br>✔ **Streamlit** (Deployment)</br>
-<br>✔ **Tensorflow** (Model building)</br>
+<br>✔ **Tensorflow** </br>
+<br>✔ **Computer Vision** </br>
 
 ### ☆ Intel oneAPI  <img src="oneapi1.png" alt="png" width="50" height="30" >
 
