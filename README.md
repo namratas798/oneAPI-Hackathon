@@ -5,7 +5,7 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
     <img src="logos.png" alt="Logo" width="100" height="120">
   </a>
 
-  <h3 style="background-color:DodgerBlue;"align="center"><B></B>TITLE: PPE DETECTION FOR INDUSTRIAL WORKERS</h3>
+  <h3 style="background-color:DodgerBlue;"align="center"><B></B>TITLE: PPE DETECTION FOR INDUSTRIAL WORKERS👷🏻🚧🏗🦺</h3>
 
   <p align="center">
 
@@ -30,5 +30,18 @@ As nations progress and economies thrive, infrastructure development becomes a c
 * Its core function is to establish construction sites as secure zones.
 * By ensuring every worker wears essential protective gear, the impact extends far beyond site boundaries.
 * Construction companies benefit from an enhanced reputation for prioritizing safety, attracting skilled labor and gaining public confidence.
+
+### 🚧 TOOLS USED FOR THE PROJECT
+✔ **Intel oneAPI**  →→→ oneDNN toolkit
+✔ **Jupyter Notebook**  (Python)
+✔ **PyCharm** (Python)
+✔ **Streamlit** (Deployment)
+✔ **Tensorflow** (Model building)
+
+### ☆ Intel oneAPI
+<div align="center">
+  <img src="ppe.jpeg" type="jpeg" alt="png" width="200" height="250">
+</div>
+
 
 </div>
