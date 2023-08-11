@@ -14,9 +14,10 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
 
 ## About The Project
 <div align="center">
-  <img src="ppe.jpeg" type="jpeg" alt="png" width="700" height="800">
+  <img src="ppe.jpeg" type="jpeg" alt="png" width="100" height="120">
 </div>
 <div align="left">
+    
 ### 💪 MOTIVATION 
 In the dynamic setting of construction sites, where the cacophony of progress resonates through machinery and human endeavor, the accurate identification of fundamental personal protective equipment (PPE) elements such as helmets and vests holds undeniable significance. The driving force behind advancing PPE detection technology lies in the critical need not only to distinguish their presence or absence but also to precisely determine adherence to safety protocols. This distinction between compliance and non-compliance underlines a compelling motivation to enhance safety measures. Every correctly identified helmet and vest, or the lack thereof, reinforces an earnest commitment to safeguarding lives. This endeavor underscores the dedication to ensuring that each individual entering the construction site is adequately equipped to face potential risks.
 
