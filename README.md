@@ -2,7 +2,7 @@
 A team project submission in the Intel oneAPI hackathon conducted at Christ University
 <br />
 <div align="center">
-    <img src="logos.png" alt="Logo" width="100" height="120">
+    <img src="images/logos.png" alt="Logo" width="100" height="120">
   </a>
 
   <h3 style="background-color:DodgerBlue;"align="center"><B></B>TITLE: PPE DETECTION FOR INDUSTRIAL WORKERS👷🏻🚧🏗🦺</h3>
@@ -28,7 +28,7 @@ The solution aims to enhance workplace safety, compliance, and operational effic
 
 
 <div align="center">
-  <img src="ppe.jpeg" type="jpeg" alt="png" width="200" height="250">
+  <img src="images/ppe.jpeg" type="jpeg" alt="png" width="200" height="250">
 </div>
 
 ### 🌎 ENHANCING SAFETY FOR WORKERS AND SOCIETAL ADVANCEMENT 
@@ -50,7 +50,7 @@ As nations progress and economies thrive, infrastructure development becomes a c
 <br>✔ **Tensorflow** </br>
 <br>✔ **Computer Vision** </br>
 
-### ☆ Intel oneAPI  <img src="oneapi1.png" alt="png" width="50" height="30" >
+### ☆ Intel oneAPI  <img src="images/oneapi1.png" alt="png" width="50" height="30" >
 
 oneAPI is a specification that is open and standards-based, supporting multiple architecture types including but not limited to GPU, CPU, and FPGA. The spec has both direct programming and API-based programming paradigms.The direct programming model provides a flexible, modern C++ language that allows developers to write parallel algorithms and integrate them into existing C++ codebases. Compilers can then take this expressed parallelism and target CPUs, GPUs, FPGAs, and other hardware.
 
