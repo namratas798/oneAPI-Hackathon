@@ -68,4 +68,4 @@ The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimize
 **TEAM MEMBERS** :
 <a href="https://github.com/namratas798">1. Namrata Singh</a>   
 <a href="https://github.com/Prakriti-Bhatt">2. Prakriti Bhatt</a>
-<a href="https://drive.google.com/file/d/1FttMlM96K5njpDYt_v4MtVvyPX62REhj/view">3. Saranya Bandaru</a>
+<a href="https://github.com/saranyabandaru91">3. Saranya Bandaru</a>
