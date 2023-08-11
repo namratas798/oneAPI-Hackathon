@@ -30,7 +30,7 @@ In the dynamic setting of construction sites, where the cacophony of progress re
 To develop an advanced computer vision system for accurately identifying personnel wearing appropriate personal protective equipment (PPE) in industrial sites. 
 
 ### 📌SOLUTION
-The solution aims to enhance workplace safety, compliance, and operational efficiency by proactively ensuring adherence to safety protocols.
+The solution aims to enhance workplace safety, compliance, and operational efficiency by proactively ensuring adherence to safety protocols by detecting the people who have not worn the required PPE.
 
 
 <div align="center">
