@@ -65,9 +65,8 @@ The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimize
    </tr>
    </table>
    
-<br> <b> TEAM NAME : PSN-3 </b> </br>
+<br> <b> TEAM NAME AND TEAM MEMBERS: PSN-3 </b> </br>
 <br> 
-<b>TEAM MEMBERS</b> :
 <br> <a href="https://github.com/namratas798">1. Namrata Singh</a>   </br>
 <br> <a href="https://github.com/Prakriti-Bhatt">2. Prakriti Bhatt</a>  </br>
 <br> <a href="https://github.com/saranyabandaru91">3. Saranya Bandaru</a>  </br>
