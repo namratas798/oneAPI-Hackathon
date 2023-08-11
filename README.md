@@ -11,7 +11,6 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
 
 
 
-
 ## About The Project
 
 <div align="left">
@@ -40,8 +39,10 @@ As nations progress and economies thrive, infrastructure development becomes a c
 
 ### ☆ Intel oneAPI
 <div align="center">
-  <img src="ppe.jpeg" type="jpeg" alt="png" width="200" height="250">
+  <img src="oneapi.jpeg" type="jpeg" alt="png" width="200" height="250">
 </div>
-
+oneAPI is a specification that is open and standards-based, supporting multiple architecture types including but not limited to GPU, CPU, and FPGA. The spec has both direct programming and API-based programming paradigms.The direct programming model provides a flexible, modern C++ language that allows developers to write parallel algorithms and integrate them into existing C++ codebases. Compilers can then take this expressed parallelism and target CPUs, GPUs, FPGAs, and other hardware.
+**oneDNN toolkit**
+The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimized implementations of deep learning building blocks. With this open source, cross-platform library, deep learning application and framework developers can use the same API for CPUs, GPUs, or both—it abstracts out instruction sets and other complexities of performance optimization.
 
 </div>
