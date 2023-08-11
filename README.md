@@ -49,9 +49,10 @@ As nations progress and economies thrive, infrastructure development becomes a c
 <br>✔ **Intel oneAPI**  
     →oneDNN toolkit  
     →AI Analytics toolkit 
-<br>✔ **Jupyter Notebook**  (Python)</br>
-<br>✔ **PyCharm** (Python)</br>
-<br>✔ **Streamlit** (Deployment)</br>
+</br>
+<br>✔ **Jupyter Notebook** </br>
+<br>✔ **PyCharm** </br>
+<br>✔ **Streamlit** </br>
 <br>✔ **Tensorflow** </br>
 <br>✔ **Computer Vision** </br>
 
