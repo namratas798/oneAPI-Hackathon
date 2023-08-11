@@ -14,7 +14,7 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
 
 
   <p align="center">
-    <a href="">View Video</a>
+    <a href="">VIEW VIDEO</a>
   </p>
 </div>
 
@@ -27,7 +27,10 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
 In the dynamic setting of construction sites, where the cacophony of progress resonates through machinery and human endeavor, the accurate identification of fundamental personal protective equipment (PPE) elements such as helmets and vests holds undeniable significance. The driving force behind advancing PPE detection technology lies in the critical need not only to distinguish their presence or absence but also to precisely determine adherence to safety protocols. This distinction between compliance and non-compliance underlines a compelling motivation to enhance safety measures. Every correctly identified helmet and vest, or the lack thereof, reinforces an earnest commitment to safeguarding lives. This endeavor underscores the dedication to ensuring that each individual entering the construction site is adequately equipped to face potential risks.
 
 ###  📌PROBLEM STATEMENT
-To develop an advanced computer vision system for accurately identifying personnel wearing appropriate personal protective equipment (PPE) in industrial sites. The solution aims to enhance workplace safety, compliance, and operational efficiency by proactively ensuring adherence to safety protocols.
+To develop an advanced computer vision system for accurately identifying personnel wearing appropriate personal protective equipment (PPE) in industrial sites. 
+
+### 📌SOLUTION
+The solution aims to enhance workplace safety, compliance, and operational efficiency by proactively ensuring adherence to safety protocols.
 
 
 <div align="center">
