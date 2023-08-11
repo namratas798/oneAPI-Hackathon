@@ -52,17 +52,31 @@ This comprehensive toolkit enables us to accelerate end-to-end data science and 
 
 ### STEPS IN THE PROJECT 
 
-1) Importing the necessary libraries like Tensorflow, Scikit-learn extension for intel, Pillow, etc.
-2) Importing the dataset
-3) Data Preperation
-  * Creating a Generator for Training Set
-  * Creating a Generator for Testing Set
-4) Model Creation with oneDNN toolkit
-5) Model Compilation
-6) Training the Model and Testing Predictions
-7) Saving model as 'oneDNN.h5'
-8) Deploying the Model as a Web Application using Streamlit
+I] USING AI ANALYTICS TOOLKIT
 
+    1) Importing the necessary libraries like Tensorflow, Scikit-learn extension for intel, Pillow, etc.
+    2) Importing the dataset
+    3) Data Preperation
+      * Creating a Generator for Training Set
+      * Creating a Generator for Testing Set
+    4) Model Creation with AI analytics toolkit (Model used: DenseNet)
+    5) Model Compilation
+    6) Training the Model and Testing Predictions
+    7) Saving model as 'final_models_densenet/densenet.h5'
+    8) Deployment of the model as a Web Application using Streamlit
+
+II] USING oneDNN TOOLKIT 
+
+    1) Importing the necessary libraries like Tensorflow, Scikit-learn extension for intel, Pillow, etc.
+    2) Importing the dataset
+    3) Data Preperation
+      * Creating a Generator for Training Set
+      * Creating a Generator for Testing Set
+    4) Model Creation with oneDNN toolkit  (Model used: CNN)
+    5) Model Compilation
+    6) Training the Model and Testing Predictions
+    7) Saving model as 'oneDNN.h5'
+    8) Deployment of the model as a Web Application using Streamlit
 
 
 </div>
