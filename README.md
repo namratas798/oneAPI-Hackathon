@@ -10,8 +10,6 @@ A team project submission in the Intel oneAPI hackathon conducted at Christ Univ
   <p align="center">
 
 
-
-
 <div align="left">
 
 ## ABOUT THE PROJECT
@@ -50,8 +48,18 @@ The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimize
 
 </div>
 
-
-
+### STEPS IN THE PROJECT 
+These are the steps involved in making this project: 
+1) Importing the necessary libraries like Tensorflow, Scikit-learn extension for intel, Pillow, etc.
+2) Importing the dataset
+3) Data Preperation
+  * Creating a Generator for Training Set
+  * Creating a Generator for Testing Set
+4) Model Creation with oneDNN toolkit
+5) Model Compilation
+6) Training the Model and Testing Predictions
+7) Saving model as 'oneDNN.h5'
+8) Deploying the Model as a Web Application using Streamlit
 
 
 
