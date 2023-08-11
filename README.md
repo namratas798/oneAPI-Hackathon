@@ -34,11 +34,11 @@ As nations progress and economies thrive, infrastructure development becomes a c
 * Construction companies benefit from an enhanced reputation for prioritizing safety, attracting skilled labor and gaining public confidence.
 
 ### 🚧 TOOLS USED FOR THE PROJECT
-✔ **Intel oneAPI**  →oneDNN toolkit  →AI Analytics toolkit
-✔ **Jupyter Notebook**  (Python)
-✔ **PyCharm** (Python)
-✔ **Streamlit** (Deployment)
-✔ **Tensorflow** (Model building)
+<br>✔ **Intel oneAPI**  →oneDNN toolkit  →AI Analytics toolkit </br>
+<br>✔ **Jupyter Notebook**  (Python)</br>
+<br>✔ **PyCharm** (Python)</br>
+<br>✔ **Streamlit** (Deployment)</br>
+<br>✔ **Tensorflow** (Model building)</br>
 
 ### ☆ Intel oneAPI  <img src="oneapi1.png" alt="png" width="50" height="30" >
 
