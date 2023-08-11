@@ -36,7 +36,7 @@ As nations progress and economies thrive, infrastructure development becomes a c
 ### 🚧 TOOLS USED FOR THE PROJECT
 <br>✔ **Intel oneAPI**  
     →oneDNN toolkit  
-    →AI Analytics toolkit </br>
+    →AI Analytics toolkit 
 <br>✔ **Jupyter Notebook**  (Python)</br>
 <br>✔ **PyCharm** (Python)</br>
 <br>✔ **Streamlit** (Deployment)</br>
