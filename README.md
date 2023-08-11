@@ -34,7 +34,9 @@ As nations progress and economies thrive, infrastructure development becomes a c
 * Construction companies benefit from an enhanced reputation for prioritizing safety, attracting skilled labor and gaining public confidence.
 
 ### 🚧 TOOLS USED FOR THE PROJECT
-<br>✔ **Intel oneAPI**  →oneDNN toolkit  →AI Analytics toolkit </br>
+<br>✔ **Intel oneAPI**  
+    →oneDNN toolkit  
+    →AI Analytics toolkit </br>
 <br>✔ **Jupyter Notebook**  (Python)</br>
 <br>✔ **PyCharm** (Python)</br>
 <br>✔ **Streamlit** (Deployment)</br>
