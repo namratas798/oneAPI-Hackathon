@@ -38,10 +38,8 @@ As nations progress and economies thrive, infrastructure development becomes a c
 ✔ **Streamlit** (Deployment)
 ✔ **Tensorflow** (Model building)
 
-### ☆ Intel oneAPI
-<div align="center">
-  <img src="oneapi.jpeg" type="jpeg" alt="png" width="600" height="350">
-</div>
+### ☆ Intel oneAPI  <img src="oneapi1.png" alt="png" width="30">
+
 oneAPI is a specification that is open and standards-based, supporting multiple architecture types including but not limited to GPU, CPU, and FPGA. The spec has both direct programming and API-based programming paradigms.The direct programming model provides a flexible, modern C++ language that allows developers to write parallel algorithms and integrate them into existing C++ codebases. Compilers can then take this expressed parallelism and target CPUs, GPUs, FPGAs, and other hardware.
 **oneDNN toolkit**
 The Intel® oneAPI Deep Neural Network Library (oneDNN) provides highly optimized implementations of deep learning building blocks. With this open source, cross-platform library, deep learning application and framework developers can use the same API for CPUs, GPUs, or both—it abstracts out instruction sets and other complexities of performance optimization.
